@@ -1,4 +1,4 @@
 # Snake
 Snake with ncurses
 
-Code by Shumetov Vladlen and Semenov Daniil
+Code by Shumetov Vladlen, Semenov Daniil and Makeev Maxim
